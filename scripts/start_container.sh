@@ -5,4 +5,4 @@ set -e
 docker pull krishnagotri/flask_app
 
 # Run the Docker image as a container
-docker run -d -p 5000:5000 docker pull krishnagotri/flask_app
+docker run -d -p 5000:5000  krishnagotri/flask_app
